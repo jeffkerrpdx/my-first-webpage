@@ -1,0 +1,21 @@
+/* This is proper indentation in CSS */
+h1 {
+  color: rgb(78, 47, 255);
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;  
+  text-align: center;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+}
