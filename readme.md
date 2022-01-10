@@ -1,22 +1,34 @@
-# _My First Webpage_
+# _{Application Name}_
 
-#### By _**Jeff Kerr**_
+#### By _**{List of contributors}**_
 
-#### _This is my very first webpage using HTML and CSS in a very simple way_
+#### _{Brief description of application}_
 
-## HTML, CSS, GIT
+## Technologies Used
+
+* _HTML_
+* _CSS_
+* _Git_
+* _GitHub_
+
+## Description
+
+_This is my very first webpage using HTML and CSS in a very simple way_
+
+## Setup/Installation Requirements
+
+* _Turn on your computer_
+* _Open a Web Browser_
+* _Wait patiently until this baby is published_
 
 
-## My first webpage is exactly what it sounds like. It is not complex,not interactive and not terribly advanced. It is simply some HTML code using some <h1> and <p> tags and not a whole lot else. 
+## Known Bugs
 
+* _None_
+* _Other than it hasn't been published yet_
 
-## No special setup or installation required. Recommend using Google Chrome but it should work on any browser. 
+## License
 
+_MIT_
 
-## No Known Bugs
-
-
-## This is free and unencumbered software released into the public domain.
-
-
-Copyright (c) _Jan 9, 2022_ _Jeff Kerr_
+Copyright (c) _January 9, 2022_ _Jeff Kerr_
