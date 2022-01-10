@@ -2,7 +2,7 @@
 
 #### By _**Jeff Kerr**_
 
-#### _{You're not gonna believe this!!_
+#### _You're not gonna believe this!!_
 
 ## Technologies Used
 
