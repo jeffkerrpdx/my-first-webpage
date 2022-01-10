@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _My First Web Page_
 
-#### By _**{List of contributors}**_
+#### By _**Jeff Kerr**_
 
-#### _{Brief description of application}_
+#### _{You're not gonna believe this!!_
 
 ## Technologies Used
 
